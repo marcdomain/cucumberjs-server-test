@@ -23,6 +23,6 @@
   "dependencies": {
     "yargs": "15.1.0",
     "cucumber": "6.0.5",
-    "start-server-and-test": "1.10.8"
+    "start-server-and-test": "1.15.4"
   }
 }
